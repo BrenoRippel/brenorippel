@@ -2,7 +2,7 @@
 
 I work on the operations and relationship side of web3 teams. From 2022 to 2023 I was part of the SolaLand / Sansa Labs team, building tools and launch services for NFT projects on Solana: I coordinated launches from planning to mint day, handled founder and partner relations, and ran an affiliate partner program.
 
-Since 2024 I've been studying computer science through [OSSU](https://github.com/ossu/computer-science). I finished MIT 6.100L (Python) and I'm working through Northeastern's CS2510, Class-Based Program Design (Java).
+Since 2024 I've been studying computer science through [OSSU](https://github.com/ossu/computer-science).
 
 ### Open source
 
